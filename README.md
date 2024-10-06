@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+This project is a custom built healthcare patient booking platform that streamlines registration, appointment scheduling & follow up (implements forms and SMS messages), medical records. Built from scratch using TypeScript, TailwindCSS, React (Shadcn), Twilio, Appwrite & Sentry.io. 
+
 ## Getting Started
 
 First, run the development server:
